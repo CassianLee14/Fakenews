@@ -29,7 +29,7 @@ What things you need to install the software and how to install them:
    ```
    - if you have chosen to install anaconda then run below commands in anaconda prompt to install these packages
    ```
-   conda install -c scikit-learn
+   conda install -c anaconda scikit-learn
    conda install -c anaconda numpy
    conda install -c anaconda scipy
    ```   
